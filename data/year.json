@@ -1,0 +1,70 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [{
+        "text": "let's filter by 1992 year",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I'm interested in articles written in 1993 year",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "leave papers from 1994",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "let's look at documents from 1995",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "keep only scrolls published in 1996",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "keep scripts created in 1997",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "can you select papers dated to 1998",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "can you leave papers from 1999",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "only show articles written in 2000",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "filter by 2001",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I need papers only from 2003",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I want documents published in 2004",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "drop everything except 2005",
+        "intent": "YEAR_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}

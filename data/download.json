@@ -1,0 +1,96 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "make a copy of article number 0",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "create a duplicate of script 1",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "download paper # 3",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "fetch article in row 4",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "unroll the 5-th scroll",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "open paper 6",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "clone scroll from 7 row",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I want to see document 8",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "show me 9-th article",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I want to see content of article number 10",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I need full version or article 11",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Let's open paper # 12",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "open paper from 13 row",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "load article number 6",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "load 98 paper",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "save paper number 99",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "save 35 document",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      },
+      {
+        "text": "bring me paper 36",
+        "intent": "DOWNLOAD_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "I would like to see more",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "page down",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "next page",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "show more",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "load more",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "continue",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },{
+        "text": "Could you demonstrate more, please?",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "more",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "list next samples",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "list a bit more articles",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "fetch another bunch",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "present other articles",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "next articles, please",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "show other papers",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "print other articles",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "good, now show me more about it",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "that's not enough",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "still to few",
+        "intent": "MORE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "ok, let's look at articles after 891 row",
+        "intent": "MORE_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}

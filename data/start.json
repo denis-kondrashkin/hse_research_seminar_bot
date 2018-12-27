@@ -1,0 +1,61 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "start from 100",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "show articles from 357",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "switch start index to 670",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "let's begin from 1000",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "begin listing from 22 row",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "move to 44 row",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "display 100 row",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you start with article # 813",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Pleas, show results from article 85",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you list papers from 77 row",
+        "intent": "START_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Let's jump to 78 document",
+        "intent": "START_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}

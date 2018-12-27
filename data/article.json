@@ -1,0 +1,146 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "please, discover something on clustering",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "articles about protons",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What are papers about linear equations?",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "look for greedy algorithms",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "please, seek for documents about text classification",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "show articles about machine learning",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "find something about human cells",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you search for articles about dna, please?",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "fetch articles about topic modelling?",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "load papers about speech recognition?",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "papers about global warming",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "what was written about neural networks",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "find papers about entropy and probability",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I would like to know about new technologies",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I would like to find information about cryptocurrency",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "show me articles about tax optimization",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I'm interested in effective governance",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What is know about steel?",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "bring me scrolls about ice and fire, immediately!",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "find scrolls on magic",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "fetch publications on water",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "fetch publications on ghosts",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "let's uncover secret knowledge of sun",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I want to learn secrets of past",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "expose to me secrets of future",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "can you find magic numbers?",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "and do we have papers on economy",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "are there documents on black holes",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}

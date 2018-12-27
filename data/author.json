@@ -1,0 +1,81 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "the Nicholas Mattei's articles",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What are the Madapuzi Srinivasan's articles?",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What articles were written by Purnima Murali Mohan?",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "articles that were written by Ekta Singla",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "papers created by Amir Karami",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "any papers published by Imran Haque",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "'works written by  E. V. Podryabinkin",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "any  A. V. Yanilkin's paper",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What articles were made by I. I. Novoselov",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "find articles made by Cesare Alippi",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What articles did Daniele Grattarola write",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What papers has Dave Braines written",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you please find articles written by Turner",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "and what about papers created by Zeilinger",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Show works where Ting Wang is among authors",
+        "intent": "AUTHOR_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}

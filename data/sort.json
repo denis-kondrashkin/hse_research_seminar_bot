@@ -1,0 +1,81 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "sorted view",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "sort",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "in ordered way, please",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I would prefer to see ordered",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Can you order them?",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Let's sort them",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "well, sort it out, please",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "It would be great if you presented sorted articles",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I prefer sorted",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "change sort order",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "let's set up sorting",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "another order",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "options for sorting",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "rearrange papers",
+        "intent": "SORT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "change order",
+        "intent": "SORT_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}

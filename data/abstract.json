@@ -1,0 +1,161 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "I would like to see abstract for 89 article",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I would like to see abstract for article number 0",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you print abstract of 7-th article",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Can you show abstract of paper in 80 row?",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "load abstract for 56 article",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I need summary of paper under 2 row",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "4 paper summary",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "show 7-th document synopsis",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "outline 90 paper",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "I will be glad to read summary of article in 19 row",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Can you provide abstract for 90 paper?",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "provide summary on document in 91 row",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "load abstract of paper in 84 row",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "outline article in 10 row",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "summarize 11-th row",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "describe 94 document",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you describe article number 12?",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Give description of paper in 56 row",
+        "intent": "ARTICLE_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Can I see abstract of 19 article",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Can you show abstract of 17 paper",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Can I get an abstract of 18 article",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you fetch a summary for 21-th article, please?",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Could you summarize 22 article?",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Provide short description for 24-th article, please",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "ok, give me short description on paper number 109",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "what is written in 6 article?",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "describe document 27",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "outline script in row 128",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "ok, tell me in short about script number 3",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "What is article 33 about",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      },
+      {
+        "text": "Tell me about 34-th scroll",
+        "intent": "ABSTRACT_INTENT",
+        "entities": []
+      }
+    ]
+  }
+}
