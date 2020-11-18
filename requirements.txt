@@ -75,7 +75,7 @@ nb-conda-kernels==2.2.0
 nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.1
-notebook==5.7.4
+notebook==6.1.5
 numpy==1.14.5
 packaging==17.1
 pandocfilters==1.4.2
